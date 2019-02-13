@@ -1,0 +1,1 @@
+data class Stundent(var name: String, var score: Int)
